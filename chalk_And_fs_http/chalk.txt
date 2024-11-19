@@ -1,1 +1,1 @@
-
+chalk is a third party files used for terminal design .
